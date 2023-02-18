@@ -4,6 +4,10 @@
   ## Description
   This is a team profile generator app that allows the user to input information about their team members and then generates a html file that displays the information in a nice format.
 
+  ## Preview
+  [WhosYouDemo.webm](https://user-images.githubusercontent.com/118019526/219825894-c95f20e9-f4ad-4dff-9f0d-97ba011d98c8.webm)
+
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -33,7 +37,7 @@
   N/A
 
   ## Testing
-  to run tests, type in the terminal: 'nm run test'
+  to run tests, type in the terminal: 'npm run test'
 
   ## Questions
   If you have any questions, please contact me at [justinjyi96@gmail.com](mailto:justinjyi96@gmail.com)
